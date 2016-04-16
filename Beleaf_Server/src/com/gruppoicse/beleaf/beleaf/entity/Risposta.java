@@ -2,7 +2,6 @@ package com.gruppoicse.beleaf.beleaf.entity;
 
 import java.io.Serializable;
 
-
 public class Risposta implements Serializable{
 	private static final long serialVersionUID = 1L;
 	

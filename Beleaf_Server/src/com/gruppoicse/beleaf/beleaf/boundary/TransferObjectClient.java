@@ -5,8 +5,6 @@ import java.util.ArrayList;
 
 import com.gruppoicse.beleaf.beleaf.entity.Risposta;
 
-
-
 public class TransferObjectClient implements Serializable{
 	private static final long serialVersionUID = 1L;
 	

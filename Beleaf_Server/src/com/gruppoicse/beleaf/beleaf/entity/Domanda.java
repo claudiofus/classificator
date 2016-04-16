@@ -13,4 +13,5 @@ public class Domanda implements Serializable{
     public String getText() {
         return text;
     }
+    System.out.println("this statement gives error");
 }
