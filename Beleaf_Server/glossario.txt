@@ -1,0 +1,31 @@
+strobilo/volgarmente chiamato cono o pigna.
+
+pannocchia/infiorescenza composta, formata da un asse principale i cui rami formano racemi. Con il termine pannocchia si indica comunemente, ma impropriamente, anche l'infiorescenza femminile di mais che in realtà è una spiga.
+
+grappolo/infiorescenza semplice costituita da un asse centrale sul quale si inseriscono fiori con peduncoli della stessa lunghezza in punti diversi lungo l'asse fiorale, i più vecchi nella parte più bassa dell'asse fiorale, mentre i più giovani nella parte verso la sommità.
+
+amento/infiorescenza a grappolo, generalmente pendente. Esempio: fiori del salice piangente.
+
+ombrella/infiorescenza racemosa in cui tutti i fiori hanno peduncolo di lunghezza più o meno uguale.
+
+glomerulo/ruppo di fiori che nell’insieme formano una palla: è quasi sempre un’infiorescenza a cima con gli assi e i peduncoli molto ridotti.
+
+fiore_solitario/i fiori possono essere solitari o si possono raggruppare in infiorescenze. Il fiore solitario rappresenta la condizione più semplice ed evolutivamente più antica, mentre con l'evoluzione si sono sviluppate le infiorescenze, composte da numerosi fiori.
+
+pleiocasio/infiorescenza cimosa nella quale ai lati di ogni asse principale si sviluppano tre o più rami fioriferi; è simile all’ombrella, dalla quale differisce per la presenza del fiore terminale.
+
+capolino/infiorescenza formata da un insieme di piccoli fiori disposti così fittamente che l'infiorescenza pare un unico fiore. Esempio: girasole.
+
+schizocarpio/tipo di frutto secco che giunto a maturazione si divide in più parti indeiscenti(1) detti mericarpi, ognuno dei quali contiene uno o più semi. (1)organi che giunti a maturità non si aprono per lasciare uscire il proprio contenuto.
+
+drupa/frutto carnoso indeiscente(1) con esocarpo(buccia) sottile e membranoso, mesocarpo(polpa) carnoso, succoso, ed endocarpo (porzione dei frutti carnosi che racchiude il seme) legnoso, contenente un solo seme osseo. Esempio: pesca. (1)organi che giunti a maturità non si aprono per lasciare uscire il proprio contenuto.
+
+samara-disamara/frutto secco indeiscente (1), con pericarpo (parte del frutto che ricopre il seme) espanso a formare un'ala membranosa, atta a sfruttare la forza del vento per una più ampia diffusione del seme contenutovi. (1)organi che giunti a maturità non si aprono per lasciare uscire il proprio contenuto.
+
+capsula/tipo di frutto secco deiscente(1) e contenente più semi. (1)il fenomeno che riguarda quegli organi (come frutti o antere) che una volta giunti a maturità si aprono spontaneamente per lasciare uscire il proprio contenuto.
+
+noce/frutto secco con un seme (raramente due) contenuto in un pericarpo (parte del frutto che ricopre il seme) legnoso. Tutte le noci sono indeiscenti, cioè non si aprono spontaneamente a maturità.
+
+pomo/falso frutto di alcune piante comprese nella famiglia delle Rosaceae, in particolare della sottofamiglia Maloideae, tra cui ci sono il melo, il pero, il cotogno e le nespole. Il carattere di falso frutto del pomo deriva da una particolarità che lo contraddistingue da altri veri frutti; di fatto quello che comunemente si considera "frutto" (inteso come parte commestibile) è solo il ricettacolo fiorale che cresce formando la parte prevalente (come massa) rispetto alla parte centrale (torsolo) che è quella derivata dalla fecondazione; tale parte centrale, che è il vero e proprio "frutto", avvolge e contiene i semi. Quindi la parte del torsolo che contiene i semi è il vero frutto delle pomacee, la parte accresciuta attorno non è originata della fecondazione e quindi non è botanicamente definibile come frutto.
+
+bacca/tipo di frutto carnoso i cui semi sono immersi nell'endocarpo (porzione più interna nei frutti carnosi). Esempio: pomodoro.
